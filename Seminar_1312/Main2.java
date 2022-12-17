@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         ArrayList<Integer> list1 = new ArrayList<>(Arrays.asList(5, 7, 3, 2, 9));
         ArrayList<Integer> list2 = new ArrayList<>(Arrays.asList(7, 5, 2, 9, 3));
