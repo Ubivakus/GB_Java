@@ -1,7 +1,5 @@
 import java.util.HashMap;
-//import java.util.HashSet;
 import java.util.Map;
-//import java.util.Set;
 
 public class Solution1 {
     public static int countWords(String[] words1, String[] words2) {
